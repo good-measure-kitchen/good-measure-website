@@ -9,7 +9,7 @@
 body {
   font-family: 'Source Sans Pro', sans-serif;
   font-size: 22px;
-  color: rgb(65,73,101);
+  color: "rgb(65,73,101)";
   letter-spacing: -1pt;
   text-align: center;
 
