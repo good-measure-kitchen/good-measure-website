@@ -12,5 +12,8 @@ body {
   color: "#3f4b65";
   letter-spacing: -1pt;
   text-align: center;
+}
 
+p {
+  color: #3f4b65;
 }
